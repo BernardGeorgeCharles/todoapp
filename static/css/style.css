@@ -154,14 +154,14 @@ button {
     font-size: 20px;
 }
 .taskAdd {
-    background: #444;
+    background: #575252;
     padding-left: 31px;
 }
 .taskAdd:hover {
     background: #303030;
 }
 .taskDelete {
-    background: #e74c3c;
+    background: #e61700;
     padding-left: 30px;
 }
 .taskDelete:hover {
