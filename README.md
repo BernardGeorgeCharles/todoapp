@@ -18,37 +18,37 @@ Before running this application, make sure you have the following installed:
 To install Django TodoApp, follow these steps:
 
 1. Clone this repository to your local machine:
-
+```
 git clone https://github.com/MeGaTroNOO7/todoapp.git
-
+```
 2. Change into the project directory:
-
+```
 cd django-todoapp
-
+```
 3. Create a virtual environment:
-
+```
 python3 -m venv env
-
+```
 4. Activate the virtual environment:
-
+```
 source env/bin/activate
-
+```
 ### Running the Application
 
 To run the application, follow these steps:
 
 1. Activate the virtual environment:
-
+```
 source env/bin/activate
-
+```
 2. Change into the project directory:
-
+```
 cd django-todoapp
-
+```
 3. Run the development server:
-
+```
 python manage.py runserver
-
+```
 
 4. Open your web browser and navigate to `http://127.0.0.1:8000/` to see the application running.
 
